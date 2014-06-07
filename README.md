@@ -5,6 +5,8 @@ For other three plots, you can just copy the plot part and paste into the R cons
 Using source command is of course ok but takes more time since you read data again and again.
 
 
+Four png files are in the folder "figure".
+
 ## Introduction
 
 This assignment uses data from
