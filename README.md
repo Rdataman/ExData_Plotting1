@@ -2,7 +2,7 @@
 All the four R files include the data-reading codes. This part may takes time.
 Use command: source("plot1.R") , you can get the plot1.png. 
 For other three plots, you can just copy the plot part and paste into the R console to run it. 
-Use source command is of course ok but takes more time since you read data again and again.
+Using source command is of course ok but takes more time since you read data again and again.
 
 
 ## Introduction
